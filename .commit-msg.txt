@@ -1,0 +1,4 @@
+Add Horizon Weather app for Horizon Labs tech task
+
+Expo and TypeScript weather app with geolocation, Open-Meteo API,
+configurable forecast, persisted unit toggle, and stale-safe refresh.
